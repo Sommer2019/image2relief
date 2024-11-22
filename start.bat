@@ -1,0 +1,2 @@
+python scriptneu.py 
+pause

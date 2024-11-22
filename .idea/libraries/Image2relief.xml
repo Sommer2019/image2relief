@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Image2relief">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/start.zip!/" />
+      <root url="jar://$PROJECT_DIR$/script.zip!/" />
+      <root url="jar://$PROJECT_DIR$/script_png.zip!/" />
+      <root url="jar://$PROJECT_DIR$/script_jpg.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
